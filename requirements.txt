@@ -1,4 +1,3 @@
 1.streamlit
 2.pandas
 3.excelfile
-4.name variable
